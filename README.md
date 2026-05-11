@@ -149,5 +149,12 @@ Me chamo Ryan de Souza, tenho 20 anos e sou Desenvolvedor Full Stack apaixonado 
     src="https://streak-stats.demolab.com?user=ryansouzas&theme=tokyonight&locale=pt_BR" 
   />
 
+   <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansouzas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 
 </p>
