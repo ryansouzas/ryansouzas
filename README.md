@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ryan de Souza, tenho 20 anos e sou Desenvolvedor Full Stack apaixonado por tecnologia , com experiência na construção de aplicações web modernas utilizando Java, Spring Boot, React e TypeScript. Possuo conhecimento em desenvolvimento de APIs REST, bancos de dados relacionais, arquitetura em camadas e boas práticas de desenvolvimento, criando soluções escaláveis, organizadas e focadas em performance e experiência do usuário.
+Me chamo Ryan de Souza, tenho 21 anos e sou Desenvolvedor Full Stack apaixonado por tecnologia , com experiência na construção de aplicações web modernas utilizando Java, Spring Boot, React e TypeScript. Possuo conhecimento em desenvolvimento de APIs REST, bancos de dados relacionais, arquitetura em camadas e boas práticas de desenvolvimento, criando soluções escaláveis, organizadas e focadas em performance e experiência do usuário.
 
 <p >
     <a href="https://www.linkedin.com/in/ryan-souzas/" >
